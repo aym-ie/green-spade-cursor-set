@@ -1,4 +1,4 @@
-# Green Space Cursor Set
+# Green Spade Cursor Set
 
 blah blah
 
